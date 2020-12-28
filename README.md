@@ -1,6 +1,6 @@
 # Express Boilerplate!
 
-This is a boilerplate project used for starting new projects!
+This is a boilerplate project used for starting new projects using JWT authentication for user login with protected endpoints.
 
 ## Set up
 
